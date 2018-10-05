@@ -2,60 +2,27 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="FULL"
+    build-mode="COLD"
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1538708591356"
+    timestamp="1538709264717"
     token="-244553442271809189"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="511" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1679" />
+        duration="0" />
     <task
         name="verifier"
-        duration="301" />
+        duration="0" />
 
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/outputs/apk/TeamCode-x86-debug.apk"
         type="SPLIT_MAIN" />
@@ -97,6 +64,14 @@
         <artifact
             location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/outputs/apk/TeamCode-x86-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1538709264717"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/outputs/apk/TeamCode-x86-debug.apk"
             type="SPLIT_MAIN" />
