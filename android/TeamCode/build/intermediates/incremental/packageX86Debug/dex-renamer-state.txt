@@ -1,4 +1,4 @@
-#Thu Oct 04 20:14:27 PDT 2018
+#Thu Oct 04 20:42:38 PDT 2018
 base.0=/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69f053740425a2e7f27782b2d172ce7e2858e5dd
 renamed.1=classes.dex
 renamed.0=classes2.dex

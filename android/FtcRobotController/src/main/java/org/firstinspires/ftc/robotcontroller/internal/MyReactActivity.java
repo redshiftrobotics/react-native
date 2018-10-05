@@ -5,10 +5,14 @@ import android.os.Bundle;
 
 import com.facebook.react.BuildConfig;
 import com.facebook.react.ReactInstanceManager;
+import com.facebook.react.ReactPackage;
 import com.facebook.react.ReactRootView;
 import com.facebook.react.common.LifecycleState;
 import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
 import com.facebook.react.shell.MainReactPackage;
+
+import java.util.Arrays;
+import java.util.List;
 
 public class MyReactActivity extends Activity implements DefaultHardwareBackBtnHandler {
     private ReactRootView mReactRootView;
@@ -23,7 +27,8 @@ public class MyReactActivity extends Activity implements DefaultHardwareBackBtnH
                 .setApplication(getApplication())
                 .setBundleAssetName("index.android.bundle")
                 .setJSMainModulePath("index")
-                .addPackage(new MainReactPackage())
+                // .addPackage(new DCPackage()))
+                .addPackages(getPackages())
                 .setUseDeveloperSupport(BuildConfig.DEBUG)
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
@@ -76,6 +81,12 @@ public class MyReactActivity extends Activity implements DefaultHardwareBackBtnH
         } else {
             super.onBackPressed();
         }
+    }
+
+    protected List<ReactPackage> getPackages() {
+        return Arrays.<ReactPackage>asList(
+                new MainReactPackage(),
+                new DCPackage());
     }
 
     // TODO: dev menu

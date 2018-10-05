@@ -1,8 +1,12 @@
 import React from 'react';
 import { AppRegistry, StyleSheet, Text, View } from 'react-native';
+import { NativeModules } from 'react-native';
 
 class HelloWorld extends React.Component {
 	render() {
+		const test = NativeModules.DCTest;
+		console.log('Test Value: ', test);
+
 		return (
 			<View style={styles.container}>
 				<Text style={styles.hello}>Hello, World</Text>
