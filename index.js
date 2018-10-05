@@ -1,15 +1,25 @@
 import React from 'react';
-import { AppRegistry, StyleSheet, Text, View } from 'react-native';
+import { AppRegistry, StyleSheet, Text, View, Button } from 'react-native';
 import { NativeModules } from 'react-native';
 
 class HelloWorld extends React.Component {
+	runMotor() {
+		const Bridge = NativeModules.DCTest;
+		motor = Bridge.getDCMotor('left');
+		Bridge.setPower(motor, 0.5);
+	}
+
 	render() {
-		const test = NativeModules.DCTest;
-		console.log('Test Value: ', test);
+		console.log('Test: ', 'VALUE');
 
 		return (
 			<View style={styles.container}>
-				<Text style={styles.hello}>Hello, World</Text>
+				<Text style={styles.hello}>Press to spin the motor</Text>
+				<Button
+					style={styles.hello}
+					title="Start"
+					onPress={() => this.runMotor()}
+				/>
 			</View>
 		);
 	}

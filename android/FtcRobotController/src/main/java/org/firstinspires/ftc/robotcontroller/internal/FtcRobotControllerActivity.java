@@ -61,6 +61,13 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.facebook.react.BuildConfig;
+import com.facebook.react.ReactInstanceManager;
+import com.facebook.react.ReactPackage;
+import com.facebook.react.ReactRootView;
+import com.facebook.react.common.LifecycleState;
+import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
+import com.facebook.react.shell.MainReactPackage;
 import com.google.blocks.ftcrobotcontroller.BlocksActivity;
 import com.google.blocks.ftcrobotcontroller.ProgrammingModeActivity;
 import com.google.blocks.ftcrobotcontroller.ProgrammingModeControllerImpl;
@@ -114,6 +121,8 @@ import org.firstinspires.ftc.robotcore.internal.webserver.RobotControllerWebInfo
 import org.firstinspires.ftc.robotcore.internal.webserver.WebServer;
 import org.firstinspires.inspection.RcInspectionActivity;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.atomic.AtomicReference;
@@ -124,7 +133,7 @@ import for_camera_opmodes.OpModeCamera;
 
 @SuppressWarnings("WeakerAccess")
 public class FtcRobotControllerActivity extends Activity
-  {
+  implements DefaultHardwareBackBtnHandler {
     private final int OVERLAY_PERMISSION_REQ_CODE = 1;  // Choose any value
 
     public static final String TAG = "RCActivity";
@@ -165,6 +174,13 @@ public class FtcRobotControllerActivity extends Activity
 
   protected FtcEventLoop eventLoop;
   protected Queue<UsbDevice> receivedUsbAttachmentNotifications;
+
+  /////////////////////////////////////////////////////////
+  // REACT ->
+  private ReactRootView mReactRootView;
+  private ReactInstanceManager mReactInstanceManager;
+  // <- REACT
+  /////////////////////////////////////////////////////////
 
   protected class RobotRestarter implements Restarter {
 
@@ -295,9 +311,55 @@ public class FtcRobotControllerActivity extends Activity
     }
   }
 
+  /////////////////////////////////////////////////////////
+  // react ->
+  @Override
+  public void invokeDefaultOnBackPressed() {
+    super.onBackPressed();
+  }
+
+  @Override
+  public void onBackPressed() {
+    if (mReactInstanceManager != null) {
+      mReactInstanceManager.onBackPressed();
+    } else {
+      super.onBackPressed();
+    }
+  }
+
+  protected List<ReactPackage> getPackages() {
+    return Arrays.<ReactPackage>asList(
+            new MainReactPackage(),
+            new DCPackage());
+  }
+  // <- REACT
+  /////////////////////////////////////////////////////////
+
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+
+    /////////////////////////////////////////////////////////
+    // react ->
+    mReactRootView = new ReactRootView(this);
+    mReactInstanceManager = ReactInstanceManager.builder()
+            .setApplication(getApplication())
+            .setBundleAssetName("index.android.bundle")
+            .setJSMainModulePath("index")
+            // .addPackage(new DCPackage()))
+            .addPackages(getPackages())
+            .setUseDeveloperSupport(BuildConfig.DEBUG)
+            .setInitialLifecycleState(LifecycleState.RESUMED)
+            .build();
+    // The string here (e.g. "MyReactNativeApp") has to match
+    // the string in AppRegistry.registerComponent() in index.js
+    mReactRootView.startReactApplication(mReactInstanceManager, "MyReactNativeApp", null);
+
+    // FrameLayout reactView = (FrameLayout) findViewById(R.id.previewLayout);
+    // reactView.addView(mReactRootView);
+    // <- REACT
+    /////////////////////////////////////////////////////////
+
     RobotLog.onApplicationStart();  // robustify against onCreate() following onDestroy() but using the same app instance, which apparently does happen
     RobotLog.vv(TAG, "onCreate()");
     ThemedActivity.appAppThemeToActivity(getTag(), this); // do this way instead of inherit to help AppInventor
@@ -437,11 +499,28 @@ public class FtcRobotControllerActivity extends Activity
   protected void onResume() {
     super.onResume();
     RobotLog.vv(TAG, "onResume()");
+    /////////////////////////////////////////////////////////
+    // REACT ->
+    if (mReactInstanceManager != null) {
+      mReactInstanceManager.onHostResume(this, this);
+    }
+    // <- REACT
+    /////////////////////////////////////////////////////////
+
   }
 
   @Override
   protected void onPause() {
     super.onPause();
+
+    /////////////////////////////////////////////////////////
+    // REACT ->
+    if (mReactInstanceManager != null) {
+      mReactInstanceManager.onHostPause(this);
+    }
+    // <- REACT
+    /////////////////////////////////////////////////////////
+
     RobotLog.vv(TAG, "onPause()");
     if (programmingModeController.isActive()) {
       programmingModeController.stopProgrammingMode();
@@ -459,6 +538,19 @@ public class FtcRobotControllerActivity extends Activity
   @Override
   protected void onDestroy() {
     super.onDestroy();
+
+    /////////////////////////////////////////////////////////
+    // REACT ->
+    if (mReactInstanceManager != null) {
+        mReactInstanceManager.onHostDestroy(this);
+    }
+
+    if (mReactRootView != null) {
+        mReactRootView.unmountReactApplication();
+    }
+    // <- REACT
+    /////////////////////////////////////////////////////////
+
     RobotLog.vv(TAG, "onDestroy()");
 
     shutdownRobot();  // Ensure the robot is put away to bed
