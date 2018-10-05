@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_module_configure_address_spin_item.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_usb_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/pwm_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/item_list_parent.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/matrices.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_controller.xml",
+        "source": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/feedback.xml",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/legacy.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/digital_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_program_and_manage.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_generic_settings.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/digital_devices.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_lynx_fw_update.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/servo.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_module.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/i2c_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/i2cs.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_lynx_address_update.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_configure_from_template.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/template_info.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_module_configure_address.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_load.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_configuration.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_wifi_remembered_groups.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/analog_outputs.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_view_logs.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/motor_list.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/servo_list.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/header.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/banner_parent.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/gray_line.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/analog_input_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/port_attached_row.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_blocks.xml",
+        "source": "/Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/servo_controller_banner.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/button_list.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/red_line.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/analog_inputs.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/analog_output_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_inspection.xml",
+        "source": "/Users/zoe/.android/build-cache/96b1e184e949168491367e5f15bda42ff6a8c086/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/loading_indicator_overlay.xml",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/info_button.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/pwms.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/matrix_devices.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/motor_controller_banner.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/digital_device_lynx.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_programming_mode.xml",
+        "source": "/Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/color_list_preference_line_item.xml",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/file_info.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/motor.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/simple_device.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/device_interface_module.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/redbox_view.xml"
+    }
+]

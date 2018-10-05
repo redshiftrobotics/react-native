@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/zoe/.android/build-cache/96b1e184e949168491367e5f15bda42ff6a8c086/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/res/menu/menu_server.xml"
+    }
+]

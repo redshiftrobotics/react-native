@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: Hardware-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/44737afeb1a629bc054726fb303bafd403ef0dd0/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/44737afeb1a629bc054726fb303bafd403ef0dd0/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/Hardware-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

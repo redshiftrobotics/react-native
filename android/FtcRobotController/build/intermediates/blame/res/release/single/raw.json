@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/texture_fragment_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/simple_vertex_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/chimeconnect.wav",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/warningmessage.wav",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/texture_vertex_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/chimedisconnect.wav",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/nxtstartupsound.wav",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/color_fragment_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/raw/errormessage.wav",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/raw/errormessage.wav"
+    }
+]

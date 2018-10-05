@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

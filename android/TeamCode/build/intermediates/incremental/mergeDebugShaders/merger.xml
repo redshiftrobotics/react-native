@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/zoe/robotics/react-native/rn/android/TeamCode/src/debug/shaders"/></dataSet></merger>

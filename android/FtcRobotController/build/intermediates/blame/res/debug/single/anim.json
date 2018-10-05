@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

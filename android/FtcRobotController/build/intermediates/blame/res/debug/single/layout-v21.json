@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

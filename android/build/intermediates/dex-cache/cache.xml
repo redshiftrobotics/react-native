@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/703db25f7001151fd7fce0e92115d957113c156f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df243cb079e69753554ed151236d443a76c1437">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_0c9b35be7b6693eaef6b3e441ad296d508b81c6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78295633216e1be0c9b163cd8bfcf048c0c732f5">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69f053740425a2e7f27782b2d172ce7e2858e5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/489565f7bfadeb127b06b6d7a5183feeb4a3b314/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a68c060a363ac354753eeb582dc15e55ea5928e">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_418bc7dfe9126d9babd642f96098b7466d6b2166.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/44737afeb1a629bc054726fb303bafd403ef0dd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2df243cb079e69753554ed151236d443a76c1437">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_481854398ab385bd6875e220b5395ef8ee4b299e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/96b1e184e949168491367e5f15bda42ff6a8c086/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c417ff8326aee56bcc0b66f32add876bf875994e">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2ca3e41966b4f411c4ca2600a7a89c48eb11c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/afa7da4f6fb2b794b746c4a73db53699272265ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c417ff8326aee56bcc0b66f32add876bf875994e">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_c72980dc77f5a4de067d583eed0bbac1c9594e00.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_59b4a797b38b6ec39b7b90bb79adc167355556a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/07e97ef870bb049d01afef2e1eb6470efe094a61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba9350a2aee9b34433166080cb6693f174fc3eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/libs/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/Vuforia_801001c6a46005c9e9013c4342d5d85541c262a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/61da3d3fc92bb2e08c987c4817aad197dbad96b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7405a2a95d6903a6728a4f8b6683c08f736e6c5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/c622d0d9fdaccc6a65ec44a37e86b011bb64561b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_4d177855030589f6b60162db53f748a186128f14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ef52e70800862d9dbd46f0905f0ab681a04797a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_f08170003a1a88a5e0584ae69d4e4f2b4c9bbe43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_85f677376b54d51eb8083949e924130202a2b4c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_51302d3c8924f1b6ecc0a1518658da05c16093de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4b4fa0c6054349eff98fc96125252ca888b0786">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3c19c94651e69c64a0b64bcf97dd299bf7af0c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_727e7dd83555a1da4d57811134bf15338a9b7fe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/cff1a3d7748fe6b90446614c5717e175c77b0d09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d31afebec75c5ceac20795910678ff955389fde/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/robotics/soccerbot/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca99d861bdab8b1de19ad7655adf2ff4c52f478e">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_53afda4151dad5c3016f38d9dd22ab01e26ce8fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/9072b634e90b085cdf9d71b0d67e16b2a2b76174/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df777c6b52d3e1840381b41615b99f290201638d">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6e253fa9e87e726ee221f881e61a0f67b62213d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/gson-extras-0.2.1_8732e1d010fadf9cca3526c0ec4a41242ce9e38c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1375ccd6fb394a488f17cd1a19b1147afd121ab5">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08314ae2072555e661e18611132da0c8c6a417f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f514ff4ca022a579d9cf7524846988b646ae4491">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotation-0.11.2_fa2a54e1cac270d67d1a5d25aa0220ee49569dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_5005b3297f60cb9ca3f7ff38016f4bad847ccf76/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_626979df156c79e6acc0574368796f46c5976481.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/0cc1f02074cf414164829d355ee161780afde005/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf98d9bbac6d175c40d9a3d1d8da77fbbcf0a81c">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc25b40bb2db2a90bc13a0ce2c35d0a07b79af98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/javac_94f623d57073cb8f4ca318702cc6a7f0e277da58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.61/bc77c34ff80df88b4d9b0418ea4ae758544573f3/kotlin-stdlib-jdk7-1.2.61.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc77c34ff80df88b4d9b0418ea4ae758544573f3">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/kotlin-stdlib-jdk7-1.2.61_cf2bacc4431b1d2412aee69e7c17b2c091f4601a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_01c847268118cdeef784d16f213b4661bdedecb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_268c385f9a1d470608c25fe37d9dd06866fa4fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/ec3673f41852d2aea02cd4639a4f3e74eae78e87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df243cb079e69753554ed151236d443a76c1437">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_02e0daeea3c136aa7a70777d60bbed7fce2eab07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/cf33d5da3f4901155f556b43fc62e01204214a70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_961f71d7408fa2b6ac512566c8b75236aba29208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25ea2e8b0c338a877313bd4672d3fe056ea78f0d">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.2_6cecbcb20c3e57802dbaada35d08285684ba4a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4b4fa0c6054349eff98fc96125252ca888b0786">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_3d300cf0bf24ee877b3e30a5abd7e95000db22d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/jars/libs/javac.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/javac_af841f2627c902f65e671d4377dd1d7d567cfcfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a68c060a363ac354753eeb582dc15e55ea5928e">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6adaca0427fc1d49989e83f2059b94df851a206/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/javac_2378c54e4bdb658b9b1b8ee46a91b567fffb9f7b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/9661a136b1f3a3931813d2aa9ba6a983fb2b9810/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_363d9f50b3df22ee1b9adead3a793a01d69ca061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_98343462dc7b831793d53f8ecc20dc55baaad0ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/faf23715e6093625c1c0c1ac150a3a48dd890207/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c417ff8326aee56bcc0b66f32add876bf875994e">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_7f24e8f2bdf60f4e48e7c596eabf7cc3ff0c4ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/4ac148507c50164e348373306464f88ef8231a03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a68c060a363ac354753eeb582dc15e55ea5928e">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_6117a743b343ec255aa2ee307d34913cf1a14bdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/f4e1a89f679ed73de3a7968d781699649ac88571/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2be6dba88c800c61109a2114b14369a7d21ecf98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/1b6d2a7c556bf708bc9988062de16e1ad72a1d49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c224bee2e2b44a51d971166cd9e41d77b63277c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_2be64e469c98c97e2d2e2fa348f7acf2a5cec761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/robotics/pid_bots/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8829e4c2a992192007bcd456890b4a81339ff321">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_dc6dbc188ac407a9ac6d6f279d79c6fa9bdb0108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_17c095583b85b1cdb94581c9a8c6743e2f03f0fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_a4bd96770fff613ac90af0e3c0e9fb6a2a7eeef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.61/5bc44acc4b3f0d19166ae3e50454b41e8ff29335/kotlin-stdlib-1.2.61.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5bc44acc4b3f0d19166ae3e50454b41e8ff29335">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.2.61_ac975f4400f58d026b276b521a0c71dafc35ece9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/80d2519ed155e44929ec1945f3bf3606d9c532fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2318392dec492981202f64ee44e33de64cff7025/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_23514dc2a505588de53b338970c8703259c8cdfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.61/bc77c34ff80df88b4d9b0418ea4ae758544573f3/kotlin-stdlib-jdk7-1.2.61.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc77c34ff80df88b4d9b0418ea4ae758544573f3">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jdk7-1.2.61_cf2bacc4431b1d2412aee69e7c17b2c091f4601a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_643489b1ac1a7034a0fcd695329b44dd0ef2a9bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/b99693b64eca2630eca3925f3e2cefb5c0991044/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61741c492af29679431ed009915fe0538dd6b1ce">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_785775680e548b469a3f93e447399649627b5c6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94edb003de5efa08ab79e62828764ec1982ff4bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/6aea2bb9857fddab5ff998252ea42a1ae90d69ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_794a1ab3abe4fdf443ad09f618d7258b43e4767c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4b4fa0c6054349eff98fc96125252ca888b0786">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_9eb2ec70b9a49103d614e3fc06396e5105856605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/fd8da519174a0f27b1f2495c6b0827496e89dd24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2512f3e1106c7bfad25895875af840381e6c7b8">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_95484852183443d7279de8eed4443a072fcfac7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/4505ff54eaeed847c74ce431efbda45da0a93fc0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_f079cedb3e0fc046603f5981ba284e3a27560858.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_8f616725441c0ea550a32bae5a879a63a19afd8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_6ceff0bbd46464f847c9e03e1d203d4b0ac340e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/de9ceed9e87bc60f74fdd1bfae5283c96334c532/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_09d3c95c6a3ce317422941a55e2d17fbec1ce658.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2512f3e1106c7bfad25895875af840381e6c7b8">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be70fe0d79270abd9e3d90c55720d477347f6351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/88c08315cf988fe8bf52c9b4d79449b379d84711/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a64f2c270a9b210b3dbe6b59af7d8671589c184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/a2745e56dc994b83e288754893a673f225f75989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a531f0495642aac6e5aa18ace2119dc9a5c24135/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/21fbfa25113b54b9e68f1be187c2e616d7dd3fb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97c609e5fda3d9ddfdc7e3b3170f40aae87a65c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/609c4baff12b230ae62774d905728a55f18d84b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26e08c73415d43f2fa1cca5212d2e4d650503ddd">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eab66f719e6755aadc80ea16d450b4c27774afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/f34c48879bd3b450efd01b763f0ad65bed3ed740/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3b76ad3c1f40d13f12aa2458deaca8d6820a5e7">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcd2ce9ac65efbe15ab36d6dc1847e197a09ffd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/0cfa518529ab84ee2367d209d16aa2e866908e8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cc5b65162cf57363b4a924805f16947660918cdf">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbab4094bab4cb40f72f47326822fff9d6b3186e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_176ee0f549e220639b78aedc84bfaef9603fc7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zoe/.android/build-cache/fa1ef4608f0b6e144a0352bf829e304665614056/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2648a2080054daa5ff07cbce9fded91153be4b11">
+        <dex dex="/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b3ad7a0c540f8c49dbaf124e1a5310ece184999/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/42962cbeeef4eb47345a5a0240eafccb83859384/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_63602884586a84e1c1da0051c9b9837e00541105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/66a94414804dda4d0c7b943dbd8b0323d8dd6ef9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/zoe/robotics/soccerbot/TeamCode/build/intermediates/pre-dexed/debug/classes_4ada4a04cb3882047103e3ebe3cd9055ab213c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.android/build-cache/1fc079fe781dbf60195ae9fbf0cd38c420fa6b96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2512f3e1106c7bfad25895875af840381e6c7b8">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/classes_178dfdff1d1ac3a74ccd4779ae161d841c919c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.61/5bc44acc4b3f0d19166ae3e50454b41e8ff29335/kotlin-stdlib-1.2.61.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bc44acc4b3f0d19166ae3e50454b41e8ff29335">
+        <dex dex="/Users/zoe/robotics/pid_bots/TeamCode/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.2.61_ac975f4400f58d026b276b521a0c71dafc35ece9.jar" />
+    </item>
+
+</items>
