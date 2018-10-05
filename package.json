@@ -1,0 +1,16 @@
+{
+  "name": "rn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.5.0",
+    "react-native": "^0.57.2"
+  }
+}
