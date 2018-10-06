@@ -1,4 +1,0 @@
-#Fri Oct 05 13:59:49 PDT 2018
-base.0=/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
-renamed.0=classes.dex
-file.0=/Users/zoe/robotics/react-native/rn/android/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

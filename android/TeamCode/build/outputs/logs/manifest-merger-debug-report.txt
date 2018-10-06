@@ -18,12 +18,12 @@ ADDED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/Android
 MERGED from [android:FtcRobotController:unspecified] /Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/bundles/default/AndroidManifest.xml:14:5-56:19
 MERGED from [:Inspection-release:] /Users/zoe/.android/build-cache/96b1e184e949168491367e5f15bda42ff6a8c086/output/AndroidManifest.xml:19:5-30:19
 MERGED from [:Blocks-release:] /Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/AndroidManifest.xml:18:5-39:19
-MERGED from [:RobotCore-release:] /Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/AndroidManifest.xml:67:5-86:19
-MERGED from [:FtcCommon-release:] /Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/AndroidManifest.xml:22:5-222:19
-MERGED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:19:5-24:19
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/zoe/.android/build-cache/0cfa518529ab84ee2367d209d16aa2e866908e8e/output/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /Users/zoe/.android/build-cache/60dee36695d417ce4c203ff73d298e098ef2d437/output/AndroidManifest.xml:2:3-17
+MERGED from [:RobotCore-release:] /Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/AndroidManifest.xml:67:5-86:19
+MERGED from [:FtcCommon-release:] /Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/AndroidManifest.xml:22:5-222:19
+MERGED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:19:5-24:19
 	android:label
 		ADDED from [android:FtcRobotController:unspecified] /Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/bundles/default/AndroidManifest.xml:17:9-41
 	android:exported
@@ -43,11 +43,6 @@ INJECTED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/Andr
 MERGED from [android:FtcRobotController:unspecified] /Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
 MERGED from [:Inspection-release:] /Users/zoe/.android/build-cache/96b1e184e949168491367e5f15bda42ff6a8c086/output/AndroidManifest.xml:7:5-9:41
 MERGED from [:Blocks-release:] /Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:RobotCore-release:] /Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:Hardware-release:] /Users/zoe/.android/build-cache/44737afeb1a629bc054726fb303bafd403ef0dd0/output/AndroidManifest.xml:7:5-9:41
-MERGED from [:FtcCommon-release:] /Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/AndroidManifest.xml:8:5-10:41
-MERGED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:5:5-7:41
-MERGED from [:WirelessP2p-release:] /Users/zoe/.android/build-cache/f4e1a89f679ed73de3a7968d781699649ac88571/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/zoe/.android/build-cache/61da3d3fc92bb2e08c987c4817aad197dbad96b1/output/AndroidManifest.xml:20:5-44
@@ -67,6 +62,12 @@ MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/zoe/.android/build
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/zoe/.android/build-cache/fa1ef4608f0b6e144a0352bf829e304665614056/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/zoe/.android/build-cache/609c4baff12b230ae62774d905728a55f18d84b9/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/zoe/.android/build-cache/0cfa518529ab84ee2367d209d16aa2e866908e8e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/zoe/.android/build-cache/2eb63d5278dcbf01dac77270df3ddf0a37b1797c/output/AndroidManifest.xml:18:5-42
+MERGED from [:RobotCore-release:] /Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Hardware-release:] /Users/zoe/.android/build-cache/44737afeb1a629bc054726fb303bafd403ef0dd0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:FtcCommon-release:] /Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/AndroidManifest.xml:8:5-10:41
+MERGED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:5:5-7:41
+MERGED from [:WirelessP2p-release:] /Users/zoe/.android/build-cache/f4e1a89f679ed73de3a7968d781699649ac88571/output/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
 		INJECTED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/AndroidManifest.xml
 		INJECTED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/AndroidManifest.xml
@@ -227,6 +228,12 @@ ADDED from [:Blocks-release:] /Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6b
 		ADDED from [:Blocks-release:] /Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/AndroidManifest.xml:36:13-59
 	android:name
 		ADDED from [:Blocks-release:] /Users/zoe/.android/build-cache/bfeb9c1da2f2a42b6bfb2aa6981ab62ef2b8712e/output/AndroidManifest.xml:35:13-79
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/AndroidManifest.xml:8:1-12:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.WRITE_SETTINGS
 ADDED from [:RobotCore-release:] /Users/zoe/.android/build-cache/d18adb1eb582b2c43887d86a7598c1cc1a434aaa/output/AndroidManifest.xml:33:5-35:35
 MERGED from [:FtcCommon-release:] /Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/AndroidManifest.xml:18:5-20:35
@@ -614,9 +621,3 @@ uses-library#android.test.runner
 ADDED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:23:9-60
 	android:name
 		ADDED from [:Analytics-release:] /Users/zoe/.android/build-cache/d1d33ae22b49ff427ccb1cbdb8ef74d40a7a71af/output/AndroidManifest.xml:23:23-57
-uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:11:5-78
-	android:name
-		ADDED from [com.facebook.react:react-native:0.57.2] /Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/AndroidManifest.xml:11:22-75
-uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/zoe/robotics/react-native/rn/android/TeamCode/src/main/AndroidManifest.xml:8:1-12:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

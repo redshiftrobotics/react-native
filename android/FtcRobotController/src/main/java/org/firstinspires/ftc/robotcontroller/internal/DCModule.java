@@ -1,5 +1,7 @@
 package org.firstinspires.ftc.robotcontroller.internal;
 
+import android.app.Activity;
+
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
@@ -25,15 +27,12 @@ public class DCModule extends ReactContextBaseJavaModule {
 
     private static final String TEST_VALUE = "FOO";
 
-    private TestOpMode mOpMode;
-
-    private DcMotor[] motors = new DcMotor[1024];
-    private int motorCount = 0;
+    private FtcRobotControllerActivity mainActivity;
 
    public DCModule(ReactApplicationContext reactContext) {
        super(reactContext);
 
-       mOpMode = new TestOpMode();
+       this.mainActivity = (FtcRobotControllerActivity) reactContext.getCurrentActivity();
    }
 
     @Override
@@ -44,26 +43,33 @@ public class DCModule extends ReactContextBaseJavaModule {
     @Override
     public Map<String, Object> getConstants() {
         final Map<String, Object> constants = new HashMap<>();
-        final TestClass motor = new TestClass();
-        constants.put("motor", motor);
+        constants.put("motor", "VALUE");
         return constants;
     }
 
     @ReactMethod
+    public void start() {
+       mainActivity.shairedOpMode.runOpMode();
+    }
+
+    @ReactMethod
     public void init() {
-       mOpMode.runOpMode();
+        mainActivity.shairedOpMode.init();
+        mainActivity.shairedOpMode.start();
     }
 
     @ReactMethod
     public int getDCMotor(String name) {
-        motors[motorCount] = mOpMode.hardwareMap.dcMotor.get(name);
-        motorCount++;
-
-        return motorCount - 1;
+        return this.mainActivity.shairedOpMode.getDCMotor(name);
     }
 
     @ReactMethod
     public void setPower(int motorIndex, double power) {
-       motors[motorIndex].setPower(power);
+       this.mainActivity.shairedOpMode.setPower(motorIndex, power);
+    }
+
+    @ReactMethod
+    public String test() {
+        return this.mainActivity.shairedOpMode.testValue;
     }
 }

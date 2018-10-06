@@ -3,6 +3,28 @@ import { AppRegistry, StyleSheet, Text, View, Button } from 'react-native';
 import { NativeModules } from 'react-native';
 
 class HelloWorld extends React.Component {
+	constructor() {
+		super();
+
+		// setTimeout(() => {
+		// 	console.log('Running start...');
+		// 	const Bridge = NativeModules.DCTest;
+		// 	Bridge.start();
+		// }, 15000);
+
+		setTimeout(() => {
+			console.log('Getting test value...');
+			const Bridge = NativeModules.DCTest;
+			console.log('Value:', Bridge.test());
+		}, 15000);
+
+		// setTimeout(() => {
+		// 	console.log('Running init...');
+		// 	const Bridge = NativeModules.DCTest;
+		// 	Bridge.init();
+		// }, 20000);
+	}
+
 	runMotor() {
 		const Bridge = NativeModules.DCTest;
 		motor = Bridge.getDCMotor('left');

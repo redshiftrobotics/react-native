@@ -1,32 +1,43 @@
 package org.firstinspires.ftc.robotcontroller.internal;
 
+import com.facebook.react.bridge.ReactMethod;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-@TeleOp(name = "Demo Op Mode")
+@TeleOp(name = "Shared Op Mode")
 public class TestOpMode extends LinearOpMode {
 
-    DcMotor leftMotor = null;
-    DcMotor rightMotor = null;
+    private DcMotor[] motors = new DcMotor[1024];
+    private int motorCount = 0;
+
+    public String testValue = "TEST";
 
     @Override
     public void runOpMode() {
+        ((FtcRobotControllerActivity) this.hardwareMap.appContext).shairedOpMode = this;
+        telemetry.addData("op mode: ", ((FtcRobotControllerActivity) this.hardwareMap.appContext).shairedOpMode.testValue);
+
         telemetry.addData("initializing...", "");
         telemetry.update();
-
-        leftMotor = hardwareMap.dcMotor.get("left_drive");
-        rightMotor = hardwareMap.dcMotor.get("right_drive");
 
         telemetry.addData("done.", "");
         telemetry.update();
 
         waitForStart();
 
-        while (opModeIsActive() && leftMotor != null && rightMotor != null) {
-            leftMotor.setPower(gamepad1.left_stick_x);
-            rightMotor.setPower(-gamepad1.left_stick_x);
-        }
+        while (opModeIsActive()) continue;
+    }
+
+    public int getDCMotor(String name) {
+        motors[motorCount] = hardwareMap.dcMotor.get(name);
+        motorCount++;
+
+        return motorCount - 1;
+    }
+
+    public void setPower(int motorIndex, double power) {
+        motors[motorIndex].setPower(power);
     }
 }
 

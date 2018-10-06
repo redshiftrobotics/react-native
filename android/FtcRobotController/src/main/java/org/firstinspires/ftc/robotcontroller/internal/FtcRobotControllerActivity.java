@@ -177,6 +177,8 @@ public class FtcRobotControllerActivity extends Activity
 
   /////////////////////////////////////////////////////////
   // REACT ->
+  public TestOpMode shairedOpMode;
+
   private ReactRootView mReactRootView;
   private ReactInstanceManager mReactInstanceManager;
   // <- REACT
@@ -357,6 +359,7 @@ public class FtcRobotControllerActivity extends Activity
 
     // FrameLayout reactView = (FrameLayout) findViewById(R.id.previewLayout);
     // reactView.addView(mReactRootView);
+
     // <- REACT
     /////////////////////////////////////////////////////////
 
@@ -457,6 +460,8 @@ public class FtcRobotControllerActivity extends Activity
         startActivityForResult(intent, OVERLAY_PERMISSION_REQ_CODE);
       }
     }
+
+    // setContentView(mReactRootView);
   }
 
   protected UpdateUI createUpdateUI() {

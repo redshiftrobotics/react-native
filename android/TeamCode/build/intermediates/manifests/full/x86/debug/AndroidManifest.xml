@@ -38,6 +38,8 @@
     <uses-permission
         android:name="android.permission.READ_EXTERNAL_STORAGE"
         android:required="true" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission
         android:name="android.permission.WRITE_SETTINGS"
         android:required="true" />
@@ -69,9 +71,6 @@
         assumed as required.
     -->
     <uses-feature android:name="android.hardware.camera" />
-
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
         android:name="org.firstinspires.ftc.robotcore.internal.system.RobotApplication"

@@ -9,15 +9,21 @@ android {
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 19
+
+        multiDexEnabled true
     }
 
 
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion "26.0.2"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
         targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    lintOptions {
+        abortOnError false
     }
 }
 
@@ -38,6 +44,8 @@ allprojects {
     dependencies {
         compile "com.android.support:appcompat-v7:26.0.1"
         compile "com.facebook.react:react-native:+" // From node_modules
+
+        compile 'com.android.support:multidex:1.0.0'
     }
 
     repositories {

@@ -107,6 +107,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/lint" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/multi-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
@@ -131,6 +132,7 @@
     <orderEntry type="library" exported="" name="Gradle: com.parse.bolts:bolts-tasks:1.4.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:viewmodel-1.1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: FtcCommon-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:multidex-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: RobotCore-release:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-ui-27.1.1" level="project" />
@@ -150,6 +152,7 @@
     <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: Hardware-release:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.facebook.react:react-native-0.57.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp3:okhttp:3.10.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.code.findbugs:jsr305:3.0.2@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:livedata-core-1.1.0" level="project" />
