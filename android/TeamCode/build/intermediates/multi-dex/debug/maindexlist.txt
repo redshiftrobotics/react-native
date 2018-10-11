@@ -125,6 +125,7 @@ com/qualcomm/robotcore/hardware/configuration/UserConfigurationType.class
 kotlin/sequences/SequencesKt___SequencesKt$elementAt$1.class
 kotlin/collections/EmptySet.class
 android/support/v4/view/ViewPager$ItemInfo.class
+org/firstinspires/ftc/robotcontroller/internal/SharedSingletonKt.class
 org/firstinspires/ftc/robotcontroller/external/samples/SensorHTColor.class
 kotlin/io/NoSuchFileException.class
 android/support/v7/view/menu/ShowableListMenu.class
@@ -926,6 +927,7 @@ com/sun/source/doctree/DocTreeVisitor.class
 okio/ByteString.class
 kotlin/comparisons/ComparisonsKt__ComparisonsKt$compareBy$2.class
 kotlin/jvm/internal/PackageReference.class
+org/firstinspires/ftc/robotcontroller/internal/FtcApplication.class
 kotlin/collections/MutableMapWithDefault.class
 kotlin/reflect/KAnnotatedElement.class
 okhttp3/internal/Util.class
@@ -1555,6 +1557,7 @@ com/facebook/imagepipeline/producers/LocalContentUriFetchProducer.class
 javax/lang/model/util/ElementKindVisitor8.class
 kotlin/reflect/KMutableProperty2$Setter.class
 android/support/v4/provider/FontsContractCompat$FontRequestCallback.class
+org/firstinspires/ftc/robotcontroller/internal/SharedOpMode.class
 kotlin/sequences/SequencesKt___SequencesKt$sorted$1.class
 android/support/v4/widget/DrawerLayout$DrawerListener.class
 javax/annotation/concurrent/ThreadSafe.class

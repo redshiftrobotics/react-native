@@ -1,11 +1,19 @@
 package org.firstinspires.ftc.robotcontroller.internal;
 
-import com.facebook.react.bridge.ReactMethod;
+import android.app.Activity;
+import android.content.Context;
+import android.content.ContextWrapper;
+
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
+import org.firstinspires.ftc.robotcontroller.internal.SharedSingletonKt;
+
+import org.firstinspires.ftc.robotcore.internal.system.RobotApplication;
 
 @TeleOp(name = "Shared Op Mode")
+@Disabled
 public class TestOpMode extends LinearOpMode {
 
     private DcMotor[] motors = new DcMotor[1024];
@@ -15,14 +23,15 @@ public class TestOpMode extends LinearOpMode {
 
     @Override
     public void runOpMode() {
-        ((FtcRobotControllerActivity) this.hardwareMap.appContext).shairedOpMode = this;
-        telemetry.addData("op mode: ", ((FtcRobotControllerActivity) this.hardwareMap.appContext).shairedOpMode.testValue);
+        System.out.println("testing app context: ");
 
-        telemetry.addData("initializing...", "");
-        telemetry.update();
+        FtcRobotControllerActivity activity = (FtcRobotControllerActivity) this.hardwareMap.appContext;
 
-        telemetry.addData("done.", "");
-        telemetry.update();
+        System.out.println(activity);
+
+
+        // telemetry.addData("op mode: ", activity.shairedOpMode.testValue);
+        // telemetry.update();
 
         waitForStart();
 
@@ -38,6 +47,20 @@ public class TestOpMode extends LinearOpMode {
 
     public void setPower(int motorIndex, double power) {
         motors[motorIndex].setPower(power);
+    }
+
+    private Activity getActivity(Context context) {
+        if (context == null) {
+            return null;
+        } else if (context instanceof ContextWrapper) {
+            if (context instanceof Activity) {
+                return (Activity) context;
+            } else {
+                return getActivity(((ContextWrapper) context).getBaseContext());
+            }
+        }
+
+        return null;
     }
 }
 

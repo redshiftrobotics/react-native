@@ -177,8 +177,6 @@ public class FtcRobotControllerActivity extends Activity
 
   /////////////////////////////////////////////////////////
   // REACT ->
-  public TestOpMode shairedOpMode;
-
   private ReactRootView mReactRootView;
   private ReactInstanceManager mReactInstanceManager;
   // <- REACT

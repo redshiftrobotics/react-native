@@ -13,22 +13,24 @@ class HelloWorld extends React.Component {
 		// }, 15000);
 
 		setTimeout(() => {
-			console.log('Getting test value...');
-			const Bridge = NativeModules.DCTest;
-			console.log('Value:', Bridge.test());
-		}, 15000);
+			this.telemetry('Testing Motors...');
+			this.runMotor();
+		}, 20000);
 
-		// setTimeout(() => {
-		// 	console.log('Running init...');
-		// 	const Bridge = NativeModules.DCTest;
-		// 	Bridge.init();
-		// }, 20000);
+		setInterval(() => {
+			console.log('Trying telemetry...');
+			this.telemetry('HELLO!');
+		}, 15000);
+	}
+
+	telemetry(value) {
+		const Bridge = NativeModules.DCTest;
+		motor = Bridge.telemetry(value);
 	}
 
 	runMotor() {
 		const Bridge = NativeModules.DCTest;
-		motor = Bridge.getDCMotor('left');
-		Bridge.setPower(motor, 0.5);
+		Bridge.getDCMotor('left', (motor) => Bridge.setPower(motor, 0.5));
 	}
 
 	render() {
