@@ -1,13 +1,10 @@
 package org.firstinspires.ftc.robotcontroller.internal
 
-import android.app.Activity
-import android.app.ActivityManager
-import android.content.Context
-import android.content.ContextWrapper
 import com.facebook.react.bridge.Callback
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule
 import com.facebook.react.bridge.ReactMethod
+import com.qualcomm.ftcrobotcontroller.FtcRobotControllerActivity
 import java.util.HashMap
 
 class DCModule: ReactContextBaseJavaModule {

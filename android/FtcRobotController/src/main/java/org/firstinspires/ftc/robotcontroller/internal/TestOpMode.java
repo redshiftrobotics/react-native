@@ -4,13 +4,11 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.ContextWrapper;
 
+import com.qualcomm.ftcrobotcontroller.FtcRobotControllerActivity;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
-import org.firstinspires.ftc.robotcontroller.internal.SharedSingletonKt;
-
-import org.firstinspires.ftc.robotcore.internal.system.RobotApplication;
 
 @TeleOp(name = "Shared Op Mode")
 @Disabled

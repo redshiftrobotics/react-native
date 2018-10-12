@@ -11,8 +11,6 @@ import android.util.Log;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
-import org.firstinspires.ftc.robotcontroller.internal.FtcRobotControllerActivity;
-
 import java.io.ByteArrayOutputStream;
 
 /**

@@ -12,15 +12,17 @@ class HelloWorld extends React.Component {
 		// 	Bridge.start();
 		// }, 15000);
 
-		setTimeout(() => {
-			this.telemetry('Testing Motors...');
-			this.runMotor();
-		}, 20000);
+		// setTimeout(() => {
+		// 	this.telemetry('Testing Motors...');
+		// 	this.runMotor();
+		// }, 20000);
+		//
+		// setInterval(() => {
+		// 	console.log('Trying telemetry...');
+		// 	this.telemetry('HELLO!');
+		// }, 15000);
 
-		setInterval(() => {
-			console.log('Trying telemetry...');
-			this.telemetry('HELLO!');
-		}, 15000);
+		setInterval(() => console.log('Testing...'), 1000);
 	}
 
 	telemetry(value) {
@@ -35,6 +37,7 @@ class HelloWorld extends React.Component {
 
 	render() {
 		console.log('Test: ', 'VALUE');
+		debugger;
 
 		return (
 			<View style={styles.container}>

@@ -56,12 +56,12 @@
         "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_config_wifi_direct.xml",
-        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_config_wifi_direct.xml"
-    },
-    {
         "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
         "source": "/Users/zoe/.android/build-cache/cb0377c9fd08aabe16c70afa0dd366c01bdc3b1c/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/activity_config_wifi_direct.xml"
     },
     {
         "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_wifi_channel_selector.xml",
@@ -120,12 +120,12 @@
         "source": "/Users/zoe/.android/build-cache/789e4c16ba7f875d6341ed1b2e0418ed4d399c01/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_module.xml",
-        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_module.xml"
-    },
-    {
         "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/i2c_device.xml",
         "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/lynx_module.xml",
+        "source": "/Users/zoe/.android/build-cache/594cab3cb77ff06d5b2f8a07ab274fe805b88b79/output/res/layout/lynx_module.xml"
     },
     {
         "merged": "/Users/zoe/robotics/react-native/rn/android/FtcRobotController/build/intermediates/res/merged/release/layout/i2cs.xml",
